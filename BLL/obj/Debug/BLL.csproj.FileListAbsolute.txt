@@ -1,0 +1,20 @@
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\BLL\bin\Debug\BLL.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\BLL\bin\Debug\BLL.pdb
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\BLL\obj\Debug\BLL.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\BLL\obj\Debug\BLL.pdb
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\BLL\bin\Debug\CUL.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\BLL\bin\Debug\DAL.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\BLL\bin\Debug\CUL.pdb
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\BLL\bin\Debug\DAL.pdb
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\atinoco\Downloads\AplicacaoCamadas\BLL\bin\Debug\BLL.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\BLL\bin\Debug\BLL.pdb
+C:\Users\atinoco\Downloads\AplicacaoCamadas\BLL\bin\Debug\CUL.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\BLL\bin\Debug\DAL.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\BLL\bin\Debug\CUL.pdb
+C:\Users\atinoco\Downloads\AplicacaoCamadas\BLL\bin\Debug\DAL.pdb
+C:\Users\atinoco\Downloads\AplicacaoCamadas\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\atinoco\Downloads\AplicacaoCamadas\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\atinoco\Downloads\AplicacaoCamadas\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\atinoco\Downloads\AplicacaoCamadas\BLL\obj\Debug\BLL.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\BLL\obj\Debug\BLL.pdb

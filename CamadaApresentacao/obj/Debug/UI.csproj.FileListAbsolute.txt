@@ -1,0 +1,79 @@
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\CamadaApresentacao.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\CamadaApresentacao.pdb
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\Antlr3.Runtime.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\DotNetOpenAuth.Core.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\EntityFramework.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\System.Web.Optimization.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\System.Web.Providers.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\WebGrease.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\EntityFramework.xml
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\DotNetOpenAuth.Core.xml
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\BLL.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\CUL.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\DAL.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\BLL.pdb
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\CUL.pdb
+C:\Users\f5361091\documents\visual studio 2012\Projects\AplicacaoCamadas\CamadaApresentacao\bin\DAL.pdb
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\CamadaApresentacao.dll.config
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\CamadaApresentacao.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\CamadaApresentacao.pdb
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\Antlr3.Runtime.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\BLL.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\CUL.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\DAL.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\DotNetOpenAuth.Core.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\EntityFramework.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\System.Web.Optimization.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\System.Web.Providers.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\WebGrease.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\Mono.Math.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\BLL.pdb
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\CUL.pdb
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\DAL.pdb
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\EntityFramework.xml
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\DotNetOpenAuth.Core.xml
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\bin\Mono.Math.xml
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\obj\Debug\UI.csproj.CopyComplete
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
+C:\Users\atinoco\Downloads\AplicacaoCamadas\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb
